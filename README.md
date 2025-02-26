@@ -1,13 +1,27 @@
 ## Hey There 🍃
 
-I'm a 22 y.o web developer from `Algeria`. I have a strong enthusiasm for building dynamic and engaging web applications. I'm passionate about crafting intuitive and efficient solutions that enhance user engagement.
+I'm a Fullstack Developer from `Algeria`, with a passion for creating web applications that are both functional and visually appealing.
 
 ### Skills ✨
 
-Languages, technologies and tools I use on a daily basis but not limited to.
+#### → Languages
 
-![](https://skills-icons.vercel.app/api/icons?i=js,ts,node,express,mongodb,vue,nuxt,postgresql,drizzle,clerk,storyblok,docus,tailwind&perline=8)
+![](https://skills-icons.vercel.app/api/icons?i=html,css,js,ts,python&perline=5)
 
-![](https://skills-icons.vercel.app/api/icons?i=gh,git,ghactions,vscode,pnpm,gemini,chatgpt,vercel,docker,postman,figma&perline=8)
+#### → Frontend & Backend
 
-> You can’t save anyone if you don’t save yourself first.
+![](https://skills-icons.vercel.app/api/icons?i=node,express,nuxt,vue,tailwind&perline=5)
+
+#### → Databases & ORMs
+
+![](https://skills-icons.vercel.app/api/icons?i=mongo,postgresql,drizzle&perline=5)
+
+#### → Version Control
+
+![](https://skills-icons.vercel.app/api/icons?i=git,github&perline=5)
+
+#### → UI/UX Design
+
+![](https://skills-icons.vercel.app/api/icons?i=figma,ps&perline=5)
+
+> Education is not the learning of the facts, but the training of the mind to think.
