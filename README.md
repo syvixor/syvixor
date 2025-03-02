@@ -12,13 +12,13 @@ I'm a Fullstack Developer from `Algeria`, with a passion for creating web applic
 
 ![](https://skills-icons.vercel.app/api/icons?i=node,express,nuxt,vue,tailwind&perline=5)
 
-#### → Databases & ORMs
+#### → Databases, ORMs & CMS
 
-![](https://skills-icons.vercel.app/api/icons?i=mongo,postgresql,drizzle&perline=5)
+![](https://skills-icons.vercel.app/api/icons?i=mongo,postgresql,drizzle,storyblok&perline=5)
 
 #### → Version Control
 
-![](https://skills-icons.vercel.app/api/icons?i=git,github&perline=5)
+![](https://skills-icons.vercel.app/api/icons?i=git,gh,ghactions&perline=5)
 
 #### → UI/UX Design
 
