@@ -28,4 +28,4 @@ I'm a Fullstack Developer from `Algeria`, with a passion for creating web applic
 
 ![](https://skills-icons.vercel.app/api/icons?i=figma,ps&perline=6)
 
-> Education is not the learning of the facts, but the training of the mind to think.
+> Simplicity is the easiest path to true beauty.
