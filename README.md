@@ -18,7 +18,7 @@ I'm a Fullstack Developer from `Algeria`, with a passion for creating web applic
 
 #### → Documentation & Presentation
 
-![](https://skills-icons.vercel.app/api/icons?i=docus,slidev&perline=6)
+![](https://skills-icons.vercel.app/api/icons?i=vitepress,slidev&perline=6)
 
 #### → Version Control
 
