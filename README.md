@@ -7,6 +7,6 @@ Here are some of the technologies & tools I work with:
 ![Skills](https://skills.syvixor.com/api/icons?i=ts,nodejs,express,mongodb,postgresql,supabase,drizzle,storyblok,vuejs,nuxt,zod,motion,tailwindcss,unocss,github,git,npm,pnpm,docker,vscode,figma,photoshop,premierepro,chatgpt&perline=8)
 
 ### To Learn 📖
-![To Learn](https://skills.syvixor.com/api/icons?i=nginx,ngrok,pinia,jest&perline=8)
+![To Learn](https://skills.syvixor.com/api/icons?i=pinia,jest&perline=8)
 
 > Simplicity is the easiest path to true beauty.
