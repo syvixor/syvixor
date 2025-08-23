@@ -4,7 +4,7 @@ I'm a **Fullstack Developer** based in **Algeria** with a passion for crafting w
 ### Skills ✨
 Here are some of the technologies & tools I work with:
 
-![Skills](https://skills.syvixor.com/api/icons?i=ts,python,nodejs,express,mongodb,postgresql,supabase,drizzle,storyblok,nuxt,eslint,zod,motion,tailwindcss,github,git,pnpm,docker,vscode,figma,photoshop,premierepro,chatgpt,zorinos&perline=8&radius=40)
+![Skills](https://skills.syvixor.com/api/icons?i=ts,python,nodejs,express,mongodb,postgresql,supabase,drizzle,storyblok,nuxt,eslint,zod,motion,tailwindcss,github,git,pnpm,docker,vscode,figma,chatgpt,zorinos&perline=8&radius=40)
 
 ### To Learn 📖
 ![To Learn](https://skills.syvixor.com/api/icons?i=pinia,jest&perline=8&radius=40)
