@@ -4,9 +4,9 @@ I'm a **Fullstack Developer** based in **Algeria** with a passion for crafting w
 ### Skills ✨
 Here are some of the technologies & tools I work with:
 
-![Skills](https://skills.syvixor.com/api/icons?i=ts,python,nodejs,express,mongodb,postgresql,supabase,drizzle,storyblok,nuxt,eslint,zod,motion,tailwindcss,github,git,pnpm,docker,vscode,trae,figma,photoshop,premierepro,chatgpt&perline=8&radius=40)
+![Skills](https://skills.syvixor.com/api/icons?i=javascript,typescript,python,html,css3,nodejs,expressjs,drizzle,vuejs,nuxtjs,eslint,tailwindcss,zod,motion,mongodb,postgresql,supabase,storyblok,docker,github,git,npm,pnpm,yarn,pypi,insomnia,vercel,vscode,figma&perline=8)
 
 ### To Learn 📖
-![To Learn](https://skills.syvixor.com/api/icons?i=pinia,jest&perline=8&radius=40)
+![](https://skills.syvixor.com/api/icons?i=pinia,jest&perline=10&radius=40)
 
 > Simplicity is the easiest path to true beauty.
