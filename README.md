@@ -9,15 +9,7 @@ intuitive user experiences.
 
 Here are some of the technologies & tools I work with:
 
-![Skills](https://skills.syvixor.com/api/icons?i=javascript,typescript,python&perline=6)
-
-![Skills](https://skills.syvixor.com/api/icons?i=nodejs,expressjs,nuxtjs,vueuse,zod,vaxee,drizzle,tailwindcss,unocss&perline=6)
-
-![Skills](https://skills.syvixor.com/api/icons?i=mongodb,postgresql,mysql,supabase,storyblok,clerk&perline=6)
-
-![Skills](https://skills.syvixor.com/api/icons?i=github,git,docker&perline=6)
-
-![Skills](https://skills.syvixor.com/api/icons?i=vercel,neon,tidb,chatgpt,lumo,figma&perline=6)
+![Skills](https://skills.syvixor.com/api/icons?i=javascript,typescript,python,nodejs,expressjs,nuxtjs,vueuse,zod,vaxee,drizzle,tailwindcss,unocss,mongodb,postgresql,mysql,supabase,storyblok,clerk,github,git,docker,vscode,vercel,neon,tidb,chatgpt,lumo,figma&perline=10)
 
 ### To Learn 📖
 
