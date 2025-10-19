@@ -6,7 +6,7 @@
 /_______  // ____|  \_/  |__|/__/\_ \\____/ |__|    
         \/ \/                      \/               
 
-~$ cat intro.txt
+~$ nano me.txt
  --
 Hey There 👋
 I'm Syvixor, A Fullstack Developer based in Algeria.
@@ -15,7 +15,7 @@ I'm Syvixor, A Fullstack Developer based in Algeria.
  --
  <img src="https://skills.syvixor.com/api/icons?i=typescript,python,nodejs,expressjs,mongodb,nuxt,drizzle,postgresql,vaxee,zod,tailwindcss,git,docker,figma&theme=light&perline=8" />
 
-~$ cat quote.txt
+~$ nano quote.txt
  --
 Teach principles, not formulas. Understand, don't memorise.
 
