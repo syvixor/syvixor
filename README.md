@@ -1,29 +1,22 @@
 <pre>
-  _________              .__                        
- /   _____/___.__.___  __|__|___  ___ ____ _______  
- \_____  \<   |  |\  \/ /|  |\  \/  //  _ \\_  __ \ 
- /        \\___  | \   / |  | >    <(  <_> )|  | \/ 
-/_______  // ____|  \_/  |__|/__/\_ \\____/ |__|    
-        \/ \/                      \/               
-
 ~$ nano me.txt
- --
+
 Hey There 👋
-I'm Syvixor, A Fullstack Developer based in Algeria.
+I'm <b>Syvixor</b>, A <b>Fullstack Developer</b> based in <b>Algeria</b>.
 
 ~$ ls skills/
- --
- <img src="https://skills.syvixor.com/api/icons?i=typescript,python,nodejs,expressjs,mongodb,nuxt,drizzle,postgresql,vaxee,zod,tailwindcss,git,docker,chatgpt,figma&theme=light&perline=8" />
 
+<img src="https://skills.syvixor.com/api/icons?i=typescript,python,nodejs,expressjs,mongodb,nuxtjs,drizzle,postgresql,storyblok,vaxee,zod,tailwindcss,git,docker,chatgpt,figma&theme=light&perline=8" />
+  
 ~$ neofetch
- --
-🎨 Preferred Color: Terracotta
-💻 Current Device/OS: Fedora Linux
-🎮 Favorite Game: The Last of Us
-🌸 Passions: Coding, Reading, Watching Anime
+
+🎨 Preferred Color: <b>Terracotta</b>
+💻 Current Device/OS: <b>Fedora Linux</b>
+🎮 Favorite Game: The <b>Last of Us</b>
+🌸 Passions: <b>Coding</b>, <b>Reading</b>, <b>Watching Anime</b>
 
 ~$ nano quote.txt
- --
+
 Teach principles, not formulas. Understand, don't memorise.
 
 ~$ exit
