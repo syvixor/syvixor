@@ -13,11 +13,7 @@ I'm Syvixor, A Fullstack Developer based in Algeria.
 
 ~$ ls skills/
  --
- <img src="https://skills.syvixor.com/api/icons?i=typescript,python,nodejs,expressjs,mongodb,nuxt,drizzle,postgresql,vaxee,zod,tailwindcss,git,docker,figma&theme=light&perline=8" />
-
-~$ nano quote.txt
- --
-Teach principles, not formulas. Understand, don't memorise.
+ <img src="https://skills.syvixor.com/api/icons?i=typescript,python,nodejs,expressjs,mongodb,nuxt,drizzle,postgresql,vaxee,zod,tailwindcss,git,docker,chatgpt,figma&theme=light&perline=8" />
 
 ~$ neofetch
  --
@@ -25,6 +21,10 @@ Teach principles, not formulas. Understand, don't memorise.
 💻 Current Device/OS: Fedora Linux
 🎮 Favorite Game: The Last of Us
 🌸 Passions: Coding, Reading, Watching Anime
+
+~$ nano quote.txt
+ --
+Teach principles, not formulas. Understand, don't memorise.
 
 ~$ exit
 </pre>
