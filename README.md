@@ -1,16 +1,30 @@
-## Hey There 👋
+<pre>
+  _________              .__                        
+ /   _____/___.__.___  __|__|___  ___ ____ _______  
+ \_____  \<   |  |\  \/ /|  |\  \/  //  _ \\_  __ \ 
+ /        \\___  | \   / |  | >    <(  <_> )|  | \/ 
+/_______  // ____|  \_/  |__|/__/\_ \\____/ |__|    
+        \/ \/                      \/               
 
-I'm a **Fullstack Developer** based in **Algeria** with a passion for
-crafting web applications that are not only functional and efficient but
-also visually captivating. I believe in the power of clean code and
-intuitive user experiences.
+~$ cat intro.txt
+ --
+Hey There 👋
+I'm Syvixor, A Fullstack Developer based in Algeria.
 
-### Skills ✨
+~$ ls skills/
+ --
+ <img src="https://skills.syvixor.com/api/icons?i=typescript,python,nodejs,expressjs,mongodb,nuxt,drizzle,postgresql,vaxee,zod,tailwindcss,git,docker,figma&theme=light&perline=8" />
 
-Here are some of the technologies & tools I work with:
+~$ cat quote.txt
+ --
+Teach principles, not formulas. Understand, don't memorise.
 
-![Skills](https://skills.syvixor.com/api/icons?i=javascript,typescript,python,nodejs,expressjs,nuxtjs,vueuse,zod,vaxee,drizzle,tailwindcss,unocss,mongodb,postgresql,mysql,supabase,storyblok,clerk,github,git,docker,vscode,vercel,neon,tidb,chatgpt,lumo,figma&perline=10)
+~$ neofetch
+ --
+🎨 Preferred Color: Terracotta
+💻 Current Device/OS: Fedora Linux
+🎮 Favorite Game: The Last of Us
+🌸 Passions: Coding, Reading, Watching Anime
 
-### To Learn 📖
-
-![To Learn](https://skills.syvixor.com/api/icons?i=jest,redis&perline=10)
+~$ exit
+</pre>
