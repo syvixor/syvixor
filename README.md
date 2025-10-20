@@ -6,13 +6,13 @@ I'm <b>Syvixor</b>, A <b>Fullstack Developer</b> based in <b>Algeria</b>.
 
 ~$ ls skills/
 
-<img src="https://skills.syvixor.com/api/icons?i=typescript,python,nodejs,expressjs,mongodb,nuxtjs,drizzle,postgresql,storyblok,vaxee,zod,tailwindcss,git,docker,chatgpt,figma&theme=light&perline=8" />
+<img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,nodejs,expressjs,mongodb,nuxtjs,drizzle,postgresql,mysql,supabase,storyblok,vaxee,zod,tailwindcss,neon,tidb,git,docker,chatgpt,figma&theme=light&perline=10" />
   
 ~$ neofetch
 
-🎨 Preferred Color: <b>Terracotta</b>
+🎨 Preferred Color: <b>Fawn Grey</b>
 💻 Current Device/OS: <b>Fedora Linux</b>
-🎮 Favorite Game: The <b>Last of Us</b>
+🎮 Favorite Game: <b>The Last of Us</b>
 🌸 Passions: <b>Coding</b>, <b>Reading</b>, <b>Watching Anime</b>
 
 ~$ nano quote.txt
