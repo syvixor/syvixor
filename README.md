@@ -6,7 +6,7 @@ I'm <b>Syvixor</b>, A <b>Fullstack Developer</b> based in <b>Algeria</b>.
 
 ~$ ls skills/
 
-<img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,nodejs,expressjs,mongodb,nuxtjs,drizzle,postgresql,mysql,supabase,storyblok,vaxee,zod,tailwindcss,neon,tidb,git,docker,chatgpt,figma&theme=light&perline=10" />
+<img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,nodejs,expressjs,hono,mongodb,nuxtjs,drizzle,postgresql,mysql,supabase,storyblok,vaxee,zod,tailwindcss,insomnia,git,docker,chatgpt,figma&theme=light&perline=10" />
   
 ~$ neofetch
 
