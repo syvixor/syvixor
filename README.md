@@ -12,7 +12,7 @@ I'm <b>Syvixor</b>, A <b>Fullstack Developer</b> based in <b>Algeria</b>.
 
 ~$ ls skills/
 
-<img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,nodejs,expressjs,hono,mongodb,nuxtjs,drizzle,postgresql,mysql,supabase,pocketbase,storyblok,vaxee,zod,tailwindcss,unocss,beekeeper,insomnia,git,docker,dockge,chatgpt,figma&perline=10" />
+<img src="https://skills.syvixor.com/api/icons?i=typescript,javascript,nodejs,expressjs,hono,mongodb,nuxtjs,drizzle,postgresql,mysql,supabase,pocketbase,storyblok,vaxee,zod,tailwindcss,unocss,beekeeper,insomnia,git,docker,dockge,geminicli,chatgpt,figma&perline=10" />
 
 ~$ ls learning/
 
