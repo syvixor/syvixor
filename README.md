@@ -12,7 +12,7 @@ I'm <b>Syvixor</b>, A <b>Fullstack Developer</b> from <b>Algeria</b>.
 
 🎨 Preferred Color: <b>Fawn Grey</b>
 💻 Current OS: <b>Fedora Linux</b>
-🎮 Favorite Game: <b>Hitman: Absolution</b>
+🎮 Favorite Game: <b>Ghost of Tsushima</b>
 🌸 Passions: <b>Coding</b>, <b>Reading</b>, <b>Watching Anime</b>
 
 ~$ exit
