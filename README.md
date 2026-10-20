@@ -6,13 +6,13 @@ I'm <b>Syvixor</b>, A <b>Fullstack Developer</b> from <b>Algeria</b>.
 
 ~$ ls skills/
 
-<img src="https://skills.syvixor.com/api/icons?i=typescript,nodejs,elysia,nuxt,tailwindcss,lenis,zod,pinia,vaxee,drizzle,postgresql,supabase,pocketbase,neon,strapi,storyblok,graphql,proxmox,docker,nginx,git,beekeeper,vscode,figma&perline=8" />
+<img src="https://skills.syvixor.com/api/icons?i=typescript,nodejs,elysia,nuxt,vue,tailwindcss,zod,pinia,drizzle,postgresql,docker,nginx,vscode,opencode,figma&perline=8" />
   
 ~$ fastfetch
 
 🎨 Preferred Color: <b>Fawn Grey</b>
 💻 Current OS: <b>Fedora Linux</b>
-🎮 Favorite Game: <b>Ghost of Tsushima</b>
+🎮 Favorite Game: <b>FC 27</b>
 🌸 Passions: <b>Coding</b>, <b>Reading</b>, <b>Watching Anime</b>
 
 ~$ exit
