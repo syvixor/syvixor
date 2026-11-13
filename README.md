@@ -6,7 +6,7 @@ I'm <b>Syvixor</b>, A <b>Fullstack Developer</b> from <b>Algeria</b>.
 
 ~$ ls skills/
 
-<img src="https://skills.syvixor.com/api/icons?i=typescript,nodejs,elysia,nuxt,vue,tailwindcss,zod,pinia,drizzle,postgresql,docker,nginx,vscode,opencode,figma&perline=8" />
+<img src="https://skills.syvixor.com/api/icons?i=typescript,nodejs,elysia,nuxt,react,tailwindcss,motion,zod,pinia,drizzle,postgresql,docker,nginx,deepseek,opencode,figma&perline=8" />
   
 ~$ fastfetch
 
